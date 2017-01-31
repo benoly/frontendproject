@@ -1,0 +1,59 @@
+.parallax-container {
+  height: 500px;
+}
+
+#picturetitle {
+  text-shadow: 1px 1px 1px #000;
+  text-align: center;
+  padding-top: 20vh;
+}
+
+.brand-logo img {
+  height:60px;
+}
+
+#cleanwater {
+  padding-bottom: 40px;
+}
+
+#splash-blue {
+    height: 450px;
+    background-color: #272D4E;
+    /*background-image: url(../images/exagon-pattern.png);*/
+}
+
+#use-cases h4 {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+#outerContainer {
+  background-color: #2196f3;
+  height: 450px;
+}
+
+#topContainer {
+  background-color: #f0f4c3;
+  height: 100vh;
+}
+
+.input-field label {
+  color: #000;
+}
+
+#googleMap {
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+#contactAddress {
+  padding-top: 15px;
+}
+
+.fa-facebook, .fa-instagram, .fa-twitter, .fa-google-plus {
+  color: black;
+}
